@@ -1,0 +1,19 @@
+{
+  "name": "usefetch",
+  "version": "1.0.0",
+  "description": "custom fetch hook with types",
+  "main": "useFetch.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jelaxshan/useFetch.git"
+  },
+  "author": "Jelaxshan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jelaxshan/useFetch/issues"
+  },
+  "homepage": "https://github.com/jelaxshan/useFetch#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
